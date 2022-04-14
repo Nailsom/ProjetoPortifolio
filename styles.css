@@ -1,0 +1,20 @@
+main {
+  background-color: #68469c;
+  block-size: auto;
+}
+.cabeca {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-size: 11px;
+  background-color: #3e295c;
+  block-size: auto;
+}
+
+.redes {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  background-color: #a66ff7;
+  block-size: auto;
+}
